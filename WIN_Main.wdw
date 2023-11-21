@@ -1,0 +1,500 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Main
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Main
+ identifier : 0x20ec2c4013c86138
+ internal_properties : CAAAAAgAAACqErEGdFb6oj0LO9MNAvIScNJhLNOYGr3yRLUC4EuIeQ1gJ/PqQhWNWKOEH3adYl4ynFGkiF3hYZAVbij9J79fDr0Vy6IHnHODDQi+1SMa/l19OkMzxilE56b5TkFVoBF1F3sVN6SXm2tYzY8j+8Q2x7+B9SNtxmJcJ/gaq5NqrzQ+NDSczHzokOwOeyP8twtRd29KL2wOD2Z78Vaf9FDnylZEgjus/9iZKdRQRy8MCHcO1Gi/IfDuT7HFCvytEpM3/5Z7po2lhPWsp81J49NbVCD751G2dg5iUEWJgOCKj/EVSL+4pTrf672xyAoYXI3ZuY+NJVjz9p2KkN6urqlAblPgUxPsSHLPAAEpsv5lqIWldv2oIJ+hrTpOji6EKm7vydun0I4wDi2O9pnUNJXFewT61iG5ordj6DnaZk5MTh0bCKRcn0tVU2RSezOL6mLP2N4HRCJN2dOT854e8+ZSSDPgO40w79xuEbVQyAvhBdkmS3+d6drE/EumLSUXVBPCLCbiue1Cth5NGO1o4xN9Ov7rHyXfDuNkred6wjIuSo/lvjvfuwubn2JhN0cFzfz78KSxXdbao4N20iMgss0Q9/bjCxDbUh9zQ+05MUGRj0m6JRb2aDJMxa3oEErXP55bhvyPEeq/MWMkgjVlR9zgsmQdAY47wCFG7RZN
+ properties :
+  width : 405
+  height : 78
+  widthClient : 399
+  heightClient : 72
+ controls :
+  -
+    name : IMG_Sound
+    identifier : 0x20ec2c4013c96138
+    internal_properties : CAAAAAgAAABaxPG2JeWicil8CVQaxz7JYKe1ehDv+CMT7BoSDKtc+EI79LiCxyw2VhBmiDbpLlAYfkJVI04JCuIqdvBuN2SFpbB6mWQ0usKcxCHb3i8ihSalaCnU8NidaTBx+OOZ/dFpcDVsJ5YjL4ky9x120XAUAaIlT1wn1Xh1MW/GPTxQY1TBjRWmvjwQbw2WKMwJPJDs+1A/OPf96Q0vI9yrrRn8qV1x2rLCZqVulQIbSbs+VgXiz4ymHZRsFj5fbGmDarJMT3a90EM1CRGTAMs/1sIK3foP5vRnN4UUWIWb14fpPU/mMIo3enuQ1+PykWeSt0aVswGIsQwbdQ26Rg+t+oyZ8vMXHiT83rg5kYuiBWo9VSh/TWXOUyCdtz/x1OkcMNp0wy6tSqip2cRaxdbvy5Kxs3dt3WzR2jqwFH2WZCArwDyWCvTD9oA6HzqHS6c29JqJajIATHdINX+SBfMaN8UMeb9VegZggoAZFHbLjUOT7fJvdSDeuDiyDvhoA2b3UBSmdMkE6d3bAwjBWNuSwB5JIMOVM/Ka6oKMIrBvciyDnoUarruE8Y5gsKS1/p5ZcuiwmWnETMrM6IN6AVPiu68q9tIt+ZO2yK8TEOOwJAt3aoTV86VH4zUEdnB4H9bSxdJIFBBVcrVz0BYuYIbpDJd190Fdqjsgyev4F33H/QWChOB3NnfNV9vb0f25/8t/+CL9hIRWGZl2mQ8FV1UX+jYWXZV1WrQCP5MMfPPBawydWd6etl/hgcnYlsdggajKaSNJCGgV10kygSSlx2l/fjeypbWVhh9EBbNWN/bHROVQn3G8SfiCZRrHGtrX6j7FR4WhSyTJMqXC/KdMukkNMDr4iglG6aZNekxncUsVePkavNFVLmh+gPpniWCulhNZ3w7rkF8OBvV7eMY/PLGROmP/U23JFA1vBdjY3CRn3oRtzbxN0Q==
+    properties :
+     y : 37
+     width : 372
+     height : 33
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1-
+         
+        type : 66048
+      -
+        code : |1-
+         
+        type : 65539
+  -
+    name : IMG_Grip
+    identifier : 0x20ec2c4013ca6138
+    internal_properties : CAAAAAgAAAC+BtfIeI//Lf25QEhsi/zJ+GWCXPoGxkaJg29t3RwBHlMaSaOnzHEFPXsazHXTFSZ21x4XSzKV1E2NpZSYFwRekVoMi2W9UfzJpQnEM11K2j1huM7FJm8r2RTQ7YKHTXgKpAth9vtEMfVoZZFzIFH1rcc+uRKFlEZiepfb5rSHfhfXi/NezNJYm7okUyQm3iU6uc2gx14tjPVf0WJbeg8vlsKB9UDvGfo9R9nyyjIzPbJSAraqdlbCM8rRdnAhvNNAVli9akPXuY/vNM8Z/FZ31bL5+um6R3C6nU4z8MQWThJd9QXE9q+9FOrdBtUfxbIWAOyLunXyuoBnbclZQDnz6USgJOjk4845dvX5zS76r+VYi3K0Wqa6QNwqUa+86vhEdofrueCe1r01v9KR1MHTeIIwBYFkUion0ooGFub8POxSUiDr7pRRGZWl89ySG9JBNgjS4MDB9CDAoiUa9NLOQslgcZEy7UqO2w0iliKtMVSSRbpX28cviv1TKe6nOPCh3ruWtbD5qwjtwDsyD5ZD+FlorV9v7gK+aUpw5thQcLAKFMqwvRVYe9o2JBPDXYHRgONifVIxNcJ87ZDVQzu6Qu88dg6Es0UDPhOiv6CnraK3RAMEr/zOLSvfyYtwcdt1R/xm+C+xlYcC0od5u1mDcmXo7V9YVC8md+6sMUuekcq4kVgiwATliLHn2j1USc0N4d4TVSGO5RVO6gf0oBPrWsxRhdm6GZAyzJNzkeqeDubWcagSXCkj1sX//RAheNFrxfsLLaZOz0CZ8D1o2e9N535moO5CYNX1To3LvBXepKSgtBBVcSVi+YczLsecM/BACsr9Q5ZCbjxjWxZVPtOyBmZRn4LHiIT0j6cwRTmvTZbVBrkvT8rNlLkJPEGNvVHUvVoKpOGloSfDq7DIL71iKUgn5tbfL37zwfdk0od/DiEo9EsYKh9eks8aR5DKPGNmteIQIelPjJT8GNKx4SXlzLmI5uKbgkA2JXCtprtLmyR5czow1aB3ICbTghKa+Y/fJzs8
+    properties :
+     x : 378
+     y : 46
+     width : 15
+     height : 20
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        type : 18
+        enabled : false
+      -
+        code : |1+
+         
+         
+        type : 66048
+      -
+        code : |1-
+         
+         ButtonDown()
+        type : 66049
+      -
+        code : |1-
+         
+        type : 65539
+  -
+    name : BTN_CLOSE
+    identifier : 0x20ec2c4013cb6138
+    internal_properties : CAAAAAgAAAAQefsjIfiuZYENZrfKzb/zJdyxL4+/D8nMVNfwmvUKrJMfwEoqkLDgu8NtsYfV5cEh0GJe7rrIrtLgXXO75IlHsIUp8n/A9nybwneeN4wq7LsNMrcmDt+oKa36aeEVdd+58OpwpV4K7CpFtwrM16h8MloYGCcuy+iRkaduus+Hewh/FArn5VhJQgwE8Zlp1996Bzzh7RPqu7q2ybN+v6/Wzcqzxp4JevqBdBzGG/R+CUuEPDO/pMtN7BYGbV+uaL35RhW4xW3+1JlVv1qDxbUm8OPCh7DX2RnNiLkOJ5Bdl7tVcAGC4qRRRpaU1RCxApiAphEL9D0WO4OLLl53WWTaGFUfqkpdCWDJdPwEqCUz6M1yKOkvljNd/3bjmznVSRewrHbK2l0lCGhZ6Ruk68wWxfiTReHhSvpBHQSmCt2VPskFmuKkBeRPxx+ch4TlBWlc351P/dG4o30uMTWJvhPLEJ7Fn65LX8jYlKMqnvLryrV96HQ9NX6Ev5mwFXwH7vhdeoSEcwzuqMsLqLoEhJ1rFsK3hxktMIe9dZdHh/lcJxiJ6ya1lP4yQAgtTNfbTCkqAk5zJvH0yNsOM1ds9/GoYjUBW3BqsqCE2gEAV4nOMn7Hdam0cxkc/odfjLCLQnkVZ1NuJUhP92O5NqGEQhuuhX6Chc4aUHlNpA1UtFu3y8hZ26VmhQCkD/k8HSLzmBZXnMP88UXHSGebsFW3642tgbYkj9HXuVmVkdvMfAd14C7TOBMfvnbm2D+9yESKekIuMjeXFUITyR6jeiYmqSIYk79Cynk0V5ed7PmneHoj20ztAx643ka8XHWdHrUcE+ZUAQkFhBIXi5acol7NZN5UHlMdVHeB49ATHB+GO8MQJTAx3RBqvb2z57d83PBNQOAo3ophonk8bplBbiPkVWBa4o394a43YiTEIQdvom88hi7vzFlpJ2kMDEmUJM8cyFsP9R2HOpNKQsaonK9bgGEjFh8O9kNFvVqc+B3zFbEWXNjZnmyN8GJhLohDlQUgF7NKW1EsEo+PF9bxdzQVWm6zJ7Rxju5kZlL18oiWza0DE0M/8w==
+    properties :
+     x : 378
+     y : 24
+     width : 15
+     height : 19
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_Volume
+    identifier : 0x20ec2c4013cc6138
+    internal_properties : CAAAAAgAAAC54AFFhTwnuPJBWcl7S2rsCfRQ7zIupeDTxGY+4QjR1PtMB/J2vjbOG6sJV5HhBoHjSXq9YcC3RIUkUhkJSf/IK8cjLg+d7rcgWC8zxMmbqI685oto4qD7xAOhrVKVcAqF+qszXsqXx42n0nr05nXGsTWyGeZ89rX978MxLl40Ia2JfSoJBCFmVlorAB9FHn5zOObxUOd9G7TXlW20cNP//Lwg3zPcy7I4NDVFCYGseiNqePGO51dRKqx6g2ZqHeVCLZJMZ5bXs7ZpblQ+gmWP0RxYuzn7n7SeDyJPgHzbKVIkS4x/xsrsDpSD42VWO8TR9FT4Tlnfaf87dFMWKjv7rX12EneZPIIzXSXXQsIZOJL33FRn3hq2+uxiN2WTglJ0tMdxU3DmXm6Wi/DMbNngRR+WmosWMZJy5kvbckL5SO+8klcY+fHlGOiv5JGnkE9O/7MSmlzU8MQGhWGrnUmtzK5HJ/lAm54SRpEAU2Eti1kWkz9S1VHRrP38Z2zz7/lDa82Gx0ykW3E=
+    properties :
+     x : 142
+     y : 3
+     width : 118
+     height : 33
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : BTN_REDUCE
+    identifier : 0x20ec2c4013cd6138
+    internal_properties : CAAAAAgAAACgHxHZWePcDYff/vTXPH0b0/cE+5Hd/qtzOb7jKcR8B06l7MddAK4SLFyuEm0iNAmNw2YsEFJIncJKf9/sisMTBmrxEYQSNXDujidsAZ7v+6y/T2DcjD9DcndBSNlQx7Sw3f/IP3hYTD5a6FA8gecO0pcUTaKLmO6KdBmvc4XuPe1jUYC6+0GBRw69mS7D/wZhg/LwSBlcnNrEtC4iBcTgATNulK6EL2TiyRlFv0hoM6hV68QLmnwLI9hOl3hU4XUChpqiJavXh1n5pfY9vpE4sDnbRchyVV7PsHpcJe6CnLP5nISefquo+ymKPz2tUngfS9VGOY9wvE/fp66sNYVtdPZkRioGSBraKGohpOl2LxdmlmsDwYcQ6bQXzGJ6RzqGjKc8u1JyfcnYPx/d0Z5QFfxutXFJ/ZcX0V7HYAO9Lqc/BGjmTPwuzsk3z0FAqrGv7a4v+llzJWgoDTlP4q57o+ibNbOWbUF+WkMMvLpOVWjlXpSDMA19/BSBWdRU/zZcG4gi478HYBj7eNLdJC8Mog125nxj0pJs6P+6+51/zpoEqKmLAlhYRxONAm8y85uryL92aMmtUqOSyIasd1GKIwgl+o4Gbs0I1UzGHGspa0232RKDlIGduNK5bwGWLDUF3xIGB8CzmQWDnDFFETjxxbkhFj5f8oTNDkH2kUa6Cxe9SGr9OnnsdTk3a+bRuj6kJrsA3VTw5zxGhXkkWeuQIJeucq9D7V64gHOhQlMIPDtFgBuzIC4dJD4Jhglt1b/PYgfuHQvIVa2GJBPb4mXnuc9bFDMQYUgG4+7m+Z7vtEBbKNpbDwrq83HXGO7Nco7KYxeOrbpSq7AhGA4y/jF0/hd9mgbr/MsEm/ITfjE5SsN4vXtrcged1upi5mQij1e/4TjbmP7vBg9YbVQ6dTIrxA/dnq9zYSLrwKXzCc/C7M0y1g9yWK4fcga+xzM=
+    properties :
+     x : 110
+     y : 6
+     width : 26
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         IF MCIVolume(“WAV”)-(65535 / gnMaxNbLevel) > 0 THEN
+         	MCIVolume(“WAV”, MCIVolume(“WAV”)-(65535 / gnMaxNbLevel))
+         ELSE
+         	MCIVolume(“WAV”,0)
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_INCREASE
+    identifier : 0x20ec2c4013ce6138
+    internal_properties : CAAAAAgAAAAw+IxKmNyDg+IZIvXGIy5o5G+oxoZI+hJ4TdKW/FK9PKg/KC+wa8l3zuG2yi7NuaoxJjyEOGaG5wz8RYgungxzaqLFjZUX4UycK6gWwPU2PwD/Z1QZngGl58oVbB8gRmDgtdpn97qz+CdjPrgBX5HcrRerqHW0YAYhf6qA0lppKMvbjTyEf0BcH2HDcOKTZZ7TLcglF7Blox0NyA7qbKPD+R6vDZxpGAlSNcZxarW4LZ0zvHyj08RSHNx9+te2Cv2V2FwrrRA807aGPmUn2tmuyt+lMgTEgq/4lIGZQSi/UoJiWEhj3+yT2wG0fQ12BrqF30nafG6M0vTun51JCNf837CnnQ+PkGbh/ELTM95MtrBPzPyrusYkaLJA9vGBU6wGecuKsSsDcHNRif9eWtL/zInNALazitYgc/QdiH09LvkuM/kEYhL9TFanY4ygkPr6NGF9It0mXovGyaef9bPtir5p66ixRP1x5tg+bqz/9G5glq8Pm1DD8GS3V7k93f77DLPUUiLB2D2Td6fjUklRS0/AXz6bzT8J4P9iDK4qonatA30Kqu5AcCuJbS0qdC8vsYcNzDNZ8RMjNHFFzgdduE/VUhWsLY1OgRGllCdFJYz1Zuv4K2BShjVF5OhEtQD+5a//6gPuTw61OkgwQPIGZo4E6if+LrOvgXj0zh16KbDWHMXFeB2jU7W5mZzXqTgAtWcPBjmY1KPUhVyoANeBQCcRDkmHeqxWj1/6vbIKoZQhKRtwp+90/GfGErEHVbSA9WsjnyACCAr7bjJ29fD+OPmpYOTxRewh57jhF8yCLQMfpMFRmf7i3wxEZx2MqhfCxROQfH9iZntVDlSA5Wqgr1HMpMOei8mL0fwcB45lJ3lQkp98H+03fgaNoeVLr7y7NjikXoyPnsKSXE4ejw6a/AqPupsayohuGKKf96AwwZ+crPpPmfzrDT0d+2qTsdjTgxZWKGe1s14RuMnVr7fxkzqpQZr2Z9Vax/01WnmvZZ9ZfmPvtA==
+    properties :
+     x : 263
+     y : 6
+     width : 25
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Variable
+         nVolume is int
+         
+         // Initialization
+         nVolume = MCIVolume(“WAV”)
+         
+         IF nVolume+(65535 / gnMaxNbLevel) < 65535 THEN
+         	MCIVolume(“WAV”, nVolume+(65535 / gnMaxNbLevel))
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+      -
+        type : 66049
+ menu :
+  name : _Menu
+  identifier : 0x28c0e6dc7e6091ea
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAD1P9OiMsu5mn1qnvao3rzWU8mDrFtNK8pAbAZJm9O13FeYexhvF/nrKCZc/imKlSBIw6VaqNFFkl1i1aI4X3hq9zkk3rKHiC40U4ocOFxnjK1aNDjt1fuOVQipMg==
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAABMwBF+xb0f/xmXTZCBkXSUcbAv+bE5+W+/dHf8R84lkAVgbp9PWbSZ2e+G4n45NbRv19I2SXcIWx4D6LkwovXybJTp5ax8qk4k
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABQHwz6f11euPOu006itwwvWwBRzUQ1lJ7ZQ6dz1b+GT4d4fNktTZevfgobmYWib6SXoH8PszUNjLdIuhU3SFuDQCtir5JGK8gdQdrIHagBhRY9fEX9Rb2DP1UHplR3pskqcRPnLpV6g8ApwQ==
+     code : |1+
+      
+      // Windows Platform SDK constants
+      CONSTANT
+      	GWL_EXSTYLE          = -20
+      	WS_EX_LAYERED        = 0x00080000
+      	LWA_COLORKEY         = 0x00000001
+      	LWA_ALPHA            = 0x00000002
+      	WM_WINDOWPOSCHANGING = 0x0046
+      END
+      
+      // Structure returned by the Windows SKD that gives information about the window
+      STWINDOWPOS is Structure
+      	nHWnd is int
+      	nHWndInsertAfter is int
+      	x is int
+      	y is int
+      	cx is int
+      	cy is int
+      	nFlags is unsigned int	
+      END
+      
+      // Sound level
+      gnVolumeLevel is real
+      gnMaxNbLevel  is int
+      
+      // Magnetism
+      gbWithoutMagnet   is boolean
+      
+      // Implement the event to manage the move of the window
+      Event(OnMove, “*.*”, WM_WINDOWPOSCHANGING)
+      
+   -
+     internal_properties : CAAAAAgAAABqrq3fKc4WIv8S1N7N3y6PDA+W7VokI0xabJ6P2dSeWSYkgVZ3+PWw4VH5U3ysxrHb3HiddocK+sJdj9ct+sT9yL4k5zOx3cNHAaCCv5A5KpBqWGlQTjyxWa3MVWfAjYIS6c0xdCJ2+41ut2CVSXXAFS7HvKOstk4XB3L6GFJWffgV/rrHsZPQCQOjUlGahD8u
+     code : |1-
+      
+      // Position the window
+      MyWindow..Width = 500
+      MyWindow..X = (Val(ExtractString(SysScreenResolution(),1)) / 2) - (MyWindow..Width / 2)
+      MyWindow..Y = (Val(ExtractString(SysScreenResolution(),2)) / 2) - (MyWindow..Height / 2)
+      
+      // Initialization
+      gnVolumeLevel = MCIVolume(“WAV”)
+      gnMaxNbLevel  = Abs(IMG_Sound..Width / 39) + 1
+      
+      // The window is still visible
+      WinStatus(AboveAll)
+      
+      // Defines the background color as Magenta (RGB(255,0,255))
+      MyWindow..BrushColor = RGB(255,0,255)
+      
+      // Change the style of the window into WS_EX_LAYERED (transparent window)
+      API(“user32”, “SetWindowLongA”, Handle(),GWL_EXSTYLE, WS_EX_LAYERED)
+      // Specify the transparency color that is magenta and define the opacity (255)
+      API(“user32”, “SetLayeredWindowAttributes”, Handle(), RGB(255,0,255), 255, LWA_COLORKEY + LWA_ALPHA)	
+      
+      // Group of buttons for moving & closing
+      GR_GRIPCLOSING..Visible = False
+      
+      // Start the functions used to refresh the display
+      SoundTimer()
+      DisplayButton()
+      
+      // Invisible window at startup to avoid the blinking effect during its initialization
+      MyWindow..Visible = True
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+   -
+     code : |1-
+      
+     type : 66048
+   -
+     code : |1-
+      
+      ButtonDown()
+     type : 66049
+   -
+     code : |1-
+      
+     type : 65539
+  procedures :
+   -
+     name : SoundTimer
+     internal_properties : CAAAAAgAAAAAU6ulE8z2T7NxaKH1bduq4k3yAC7oLCQ7OClVongR2b4wI0npbgfPVKLmXo69L0Jt2vs0c2zzhK9GEn2ZWFLFVHq6BnYDtxhkl0mH+PFVBxQhgisBDlobpXhKoaczIlSPTBzB85eCgknjzcN5cmQoXHToMjyw/XmzmzTB91jNnqcJAQ==
+     procedure_id : 1219398252507586872
+     type_code : 14
+     code : |1-
+      // Summary: Timer to update the sound level
+      // Syntax:
+      //SoundTimer ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // SoundTimer()
+      //// Automatic procedure:
+      // The procedure is run manually, during a call in the code
+      // It will be repeated in loop, with 20 hundredths of a second between each call
+      // Each following call runs the procedure once, without timer
+      // 
+      
+      PROCEDURE SoundTimer()
+      
+      DisplaySoundLevel()
+     type : 458752
+   -
+     name : DisplayButton
+     internal_properties : CAAAAAgAAABfGvxY5nVvyCckZQh0NuRvobJF+Tcxh0VO9yr0ps5GdPMK8bmPtRb8cF3cEkZB9rlU8xeuUIrV9uraKiV9azsIxlz43UXzylQYW9v7aO1Bqw7YilDoSb8cKPLS9rnsMwCA8gabSTASplnJLaEfWgzS5vpotD60Q5/x/61IfqF6yXBS2g==
+     procedure_id : 1219398252507652408
+     type_code : 14
+     code : |1+
+      // Summary: Displays the button used to close the application or to move it
+      // Syntax:
+      //DisplayButton ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // DisplayButton()
+      //// Automatic procedure:
+      // The procedure is run manually, during a call in the code
+      // It will be repeated in loop, with 10 hundredths of a second between each call
+      // Each following call runs the procedure once, without timer
+      // 
+      
+      Procedure DisplayButton()
+      
+      // Variables
+      X, Y are system int
+      
+      // Initialization
+      X = LoWord(CursorPos(cpScreen))
+      Y = HiWord(CursorPos(cpScreen))
+      
+      IF MyWindow..X <= X <= MyWindow..Width + MyWindow..X _AND_ MyWindow..Y <= Y <= MyWindow..Height + MyWindow..Y THEN
+      	IF NOT GR_GRIPCLOSING..Visible THEN
+      		GR_GRIPCLOSING..Visible = True	
+      	END
+      ELSE
+      	IF GR_GRIPCLOSING..Visible THEN
+      		GR_GRIPCLOSING..Visible = False	
+      	END 		
+      END
+     type : 458752
+   -
+     name : DisplaySoundLevel
+     procedure_id : 1219398252507717944
+     type_code : 14
+     code : |1-
+      // Summary: Displays the current sound level of the system
+      // Syntax:
+      //DisplaySoundLevel ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // DisplaySoundLevel()
+      //
+      Procedure DisplaySoundLevel()
+      
+      // Variable
+      X       is int
+      nValue is real
+      
+      // Initialization
+      X = 0
+      gnVolumeLevel = MCIVolume(“WAV”)
+      
+      // Calculate the ratio for the scale of our volume
+      nValue = 65535 / gnMaxNbLevel
+      gnVolumeLevel = gnVolumeLevel / nValue
+      
+      dStartDrawing(IMG_Sound, dErase)
+      
+      FOR I = 1 _TO_ Abs(gnVolumeLevel)
+      	dRectangle(X,0,X+15,IMG_Sound..Height,LightCyan)
+      	X += 40
+      END
+     type : 458752
+   -
+     name : OnMove
+     procedure_id : 1219398252507783480
+     type_code : 14
+     code : |1+
+      // Summary: Procedure called whenever the position of the window changes
+      // Syntax:
+      //OnMove ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // Event(OnMove, "*.*", WM_WINDOWPOSCHANGING )
+      //
+      Procedure OnMove()
+      
+      // Variables
+      bMod		 is boolean
+      stWinPos is STWINDOWPOS
+      
+      // Retrieves the information about the move
+      Transfer(&stWinPos, _EVE.lParam, Dimension(stWinPos))
+      
+      // If the management of the magnetism is enabled
+      IF gbWithoutMagnet = False THEN
+      	// Magnetize on the left border of the screen
+      	IF MyWindow..X <= 50 THEN	
+      		stWinPos:x = 0
+      		bMod = True
+      	END
+      	
+      	// Magnetize on the top border of the screen
+      	IF MyWindow..Y <= 50 THEN		
+      		stWinPos:y = 0		
+      		bMod = True
+      	END
+      	
+      	// Magnetize on the right border of the screen
+      	IF MyWindow..X + MyWindow..Width >= SysXRes() - 50 THEN		
+      		stWinPos:x = SysXRes() - MyWindow..Width		
+      		bMod = True
+      	END
+      	
+      	// Magnetize on the bottom border of the screen
+      	IF MyWindow..Y + MyWindow..Height >= SysYRes() - 50 THEN	
+      		stWinPos:y = SysYRes() - MyWindow..Height	
+      		bMod = True
+      	END
+      	
+      	// If modifications have been made
+      	IF bMod = True THEN 
+      		// Transmit the next coordinates
+      		Transfer(_EVE.lParam, &stWinPos, Dimension(stWinPos))
+      	END
+      ELSE
+      	// If we are positioned outside the "borders" of the screen, resume the management of magnetism
+      	IF MyWindow..X > 50 _AND_ MyWindow..Y > 50 _AND_ MyWindow..X + MyWindow..Width < SysXRes() - 50 _AND_ MyWindow..Y + MyWindow..Height < SysYRes() - 50 THEN
+      		gbWithoutMagnet = False
+      	END
+      END
+     type : 458752
+   -
+     name : ButtonDown
+     procedure_id : 1219398252507849016
+     type_code : 14
+     code : |1-
+      // Summary: Procedure called when the left button is pressed and when it is used to check the position of the window
+      // and to act consequently for the magnetism.
+      // Syntax:
+      //ButtonDown ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // ButtonDown()
+      //
+      Procedure ButtonDown()
+      
+      gbWithoutMagnet = False
+      
+      IF MyWindow..X <= 50 THEN
+      	gbWithoutMagnet = True
+      END
+      
+      IF MyWindow..Y <= 50 THEN
+      	gbWithoutMagnet = True
+      END
+      
+      IF MyWindow..X + MyWindow..Width >= SysXRes() - 50 THEN
+      	gbWithoutMagnet = True
+      END
+      
+      IF MyWindow..Y + MyWindow..Height >= SysYRes() - 50 THEN
+      	gbWithoutMagnet = True
+      END
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x18c0030f01f2b970
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_WIN_Main.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
